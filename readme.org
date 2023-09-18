@@ -9,3 +9,12 @@
 Требуются шрифты семейства [[https://github.com/be5invis/Iosevka][Iosevka]]:
 - Iosevka,
 - Iosevka Etoile.
+
+
+** Установка
+
+#+begin_src
+git clone https://github.com/cowwabanga/emacs.d.git ~/.emacs.d
+#+end_src
+
+Предварительно требуется установить необходимые шрифты!
