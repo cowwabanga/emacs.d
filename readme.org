@@ -1,0 +1,11 @@
+#+title: Read Me
+#+date: 2023-09-18
+#+author: cowwabanga
+
+* Файлы настроек Emacs
+
+Мои файлы настроек Emacs (~.emacs.d/~).
+
+Требуются шрифты семейства [[https://github.com/be5invis/Iosevka][Iosevka]]:
+- Iosevka,
+- Iosevka Etoile.
